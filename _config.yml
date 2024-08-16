@@ -3,8 +3,8 @@ name: 'THiCC Lab'
 description: 'The website for The Human in Computing and Cognition (THiCC) Lab'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/THiCC-Lab-test'
-url: "https://cld5070.github.io/THiCC-Lab-test/"
+baseurl: ''
+url: "https://thicc-lab.github.io/"
 disqus: ''
 email: 'cld5070@psu.edu'
 mailchimp-list: ''
