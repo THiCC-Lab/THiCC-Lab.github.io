@@ -1,0 +1,37 @@
+---
+title: "Dr. Christopher L. Dancy"
+layout: default
+permalink: "/author-dr-christopher-l-dancy.html" 
+---
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.dr-christopher-l-dancy.twitter }}">Follow</a></span></h2>
+                <p><a href="{{ site.authors.dr-christopher-l-dancy.site }}">{{ site.authors.christopher-l-dancy.site }}</a></p>
+                <p class="excerpt">{{ site.authors.christopher-l-dancy.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.dr-christopher-l-dancy.name }}" src="{{site.baseurl}}/{{ site.authors.dr-christopher-l-dancy.avatar }}" class="rounded-circle" height="100" width="100">
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Work with {{page.title}}</span></h4>
+            <h5>Scholarship</h5>
+                {% assign scholarship = site.scholarship | where:"author","dr-christopher-l-dancy" %}
+                {% for post in posts %}
+                {% include main-loop-card.html %}
+                {% endfor %}
+            <h5>Teaching</h5>
+                {% assign posts = site.teaching | where:"author","dr-christopher-l-dancy" %}
+                {% for post in posts %}
+                {% include main-loop-card.html %}
+                {% endfor %}
+            <h5>Posts</h5>
+                {% assign posts = site.posts | where:"author","dr-christopher-l-dancy" %}
+                {% for post in posts %}
+                {% include main-loop-card.html %}
+                {% endfor %}
+    </div>
+</div>
+</div>
