@@ -23,7 +23,7 @@ authors:
     dr-christopher-l-dancy:
       name:           Dr. Christopher L. Dancy
       site:           http://cdancy.com
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/dancy-photo.png
       bio:            "Dr. Chris Dancy interest and expertise lies at the intersections of human behavior, computational systems, and sociocultural structures. He uses theoretical perspectives from computational cognitive science and Black studies to ground his research at these intersections. To study the processes that define these interactions, Dr. Dancy uses computational cognitive modeling, human behavioral studies, and design & implementation considerations of computational (particularly “AI”) systems."
       email:          cld5070@psu.edu
       twitter:        https://twitter.com/profdancy
@@ -31,7 +31,7 @@ authors:
     deja:
       name:           Deja
       site:           https://github.com/cld5070
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/deja-photo.jpg
       bio:            Deja Workman is a PhD student in Information Sciences and Technology at Penn State and a graduate research assistant in THiCC Lab. In 2022 she graduated from Penn State with a B.S. in information sciences and technology. Her current research project focuses on anti-blackness in the artificial intelligence development process, and her past research projects include testing learning theories on complex tasks as well as diversity in STEM education and inclusive instructor behaviors.
       email:          cld5070@psu.edu
       twitter:        https://github.com/cld5070
@@ -39,7 +39,7 @@ authors:
     meera:
       name:           Meera
       site:           https://github.com/cld5070
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/meera-photo.jpg
       bio:            Meera Ray is a first year PhD student in Computer Science and Engineering at Penn State and a graduate research assistant in THiCC Lab. She graduated with a B.S. in Statistics and Machine Learning from Carnegie Mellon in 2023. Her research aims to articulate how artificial intelligence interacts with social hierarchies. Meera’s current research project, developing a cognitive model of human decision making in disaster situations, is with the AI Institute for Societal Decision Making (AI-SDM).
       email:          cld5070@psu.edu
       twitter:        https://github.com/cld5070
@@ -47,7 +47,7 @@ authors:
     swapnika:
       name:           Swapnika
       site:           https://github.com/cld5070
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/swapnika-photo.jpg
       bio:            Swapnika Dulam is a Second year Masters student in Computer Science at Penn State and a Graduate Research Assistant in THiCC Lab. She is from India and did her Integrated Dual Degree (B.Tech + M.Tech (CSE)) in JNTUHCEH, Hyderabad, India. She has four years of industry experience as a full stack developer and also designed distributed systems using Restful API. Her Current research project focuses on Human AI Interaction where she is working on Minecraft malmo environment.
       email:          cld5070@psu.edu
       twitter:        https://github.com/cld5070
@@ -55,7 +55,7 @@ authors:
     haya:
       name:           Haya
       site:           https://github.com/cld5070
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/haya-photo.jpg
       bio:            Haya Alshayji is currently advancing her academic journey as a Ph.D. candidate at Pennsylvania State University’s College of Engineering, with a focus on integrating machine learning, data science, and statistical modeling in her studies. Recently, she expanded her research experience by joining THiCC Lab as a research assistant. For three years, she has been an active member of the Artificial Intelligence Lab, where she has been instrumental in cross-disciplinary research projects, particularly in applying AI techniques to address healthcare disparities. Haya’s involvement in these diverse research areas highlights her commitment to leveraging AI for social good and advancing the field of data science.
       email:          cld5070@psu.edu
       twitter:        https://github.com/cld5070
