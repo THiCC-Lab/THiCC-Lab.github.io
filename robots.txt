@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /
 
-Sitemap: https://THiCC-Lab.github.io/sitemap.xml
+Sitemap: https://thicc-lab.github.io/sitemap.xml
