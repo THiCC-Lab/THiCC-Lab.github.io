@@ -1,0 +1,2 @@
+Julian Gay is a PhD student in Computer Science and Engineering at Penn State and a graduate research assistant in the THICC Lab. He graduated with a B.S. in Computer Science from the University of Texas at Dallas. His research aims to understand the racialization of AI systems through building cognitive agents and virtual environments. His past research and expertise involved incorporating artificial intelligence in industry as a software developer and engineer using neural networks and game theory.
+&nbsp;

@@ -1,9 +1,7 @@
-@string{aps = {American Physical Society,}}
-
-@Misc{Workman2025,
+@Misc{WorkmanAcce,
   author     = {Workman, D. and Dancy, C. L. and Mir, D.},
   title      = {How Carceral Algorithms Distort Black Narratives: The STRONG-R Case Study},
-  year       = {2025},
+  year       = {Acce},
   address    = {Chicago, IL, USA},
   journal    = {IEEE Ethics},
   pages      = {1-2},
@@ -11,20 +9,20 @@
   shorttitle = {How Carceral Algorithms Distort Black Narratives: The STRONG-R Case Study},
 }
 
-@InProceedings{Tanwar2025,
+@InProceedings{TanwarAcce,
   author     = {Tanwar, A. and Dancy, C. L.},
   title      = {Evaluating communication between Cognitive architectures and environments},
-  year       = {2025},
+  year       = {Acce},
   address    = {Columbus, OH, USA},
   journal    = {23rd International Conference on Cognitive Modeling},
   refid      = {1254},
   shorttitle = {Evaluating communication between Cognitive architectures and environments},
 }
 
-@InProceedings{Ray2025,
+@InProceedings{RayAcce,
   author     = {Ray, M. and Dancy, C. L.},
   title      = {Adapting A Vector-Symbolic Memory for Lisp ACT-R},
-  year       = {2025},
+  year       = {Acce},
   address    = {Columbus, OH, USA},
   journal    = {23rd International Conference on Cognitive Modeling},
   refid      = {1255},
@@ -663,5 +661,3 @@
   refid      = {356},
   shorttitle = {Towards adding a physiological substrate to ACT-R},
 }
-
-@Comment{jabref-meta: databaseType:bibtex;}
