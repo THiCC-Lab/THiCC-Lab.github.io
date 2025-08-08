@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-resources",
+          title: "resources",
+          description: "Resources related to the work we do in THiCC Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resources/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
