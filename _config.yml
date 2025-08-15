@@ -265,7 +265,7 @@ scholar:
   last_name: Dancy
   first_name: C, L
 
-  style: apa
+  style: acm-sig-proceedings #assets/bibliography/ieee-ToHMS
   locale: en
 
   source: /_bibliography/
