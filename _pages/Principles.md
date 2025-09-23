@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /principles/
-title: ThiCC Lab principles
+title: principles
 description: The principles that guide what we do within THiCC Lab
 nav: true
 nav_order: 6

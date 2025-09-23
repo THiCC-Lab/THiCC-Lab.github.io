@@ -1,7 +1,0 @@
----
-layout: post
-title: THiCC Lab @ [AI-SDM](https://www.cmu.edu/ai-sdm/index.html) [Annual meeting](https://tockify.com/aisdm/detail/58/1748437200000?startms=1743480000000)
-date: 28-May-2025 08:00:00-0500
-inline: true
-related_posts: false
----
