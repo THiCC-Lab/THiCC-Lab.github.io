@@ -143,7 +143,7 @@ ninja.data = [{
           section: "News",},{id: "news-thicc-lab-had-two-papers-accepted-to-iccm-2025-meera-ray-and-ayush-tanwar-and-two-abstracts-presented-as-posters-swapnika-dulam-and-deja-workman-congrats-to-all",
           title: 'THiCC lab had two papers accepted to ICCM 2025 (Meera Ray and Ayush...',
           description: "",
-          section: "News",},{id: "news-emmanuel-domfeh-swapnika-dulam-and-fitsum-beyene-all-are-first-authors-on-papers-from-the-lab-that-were-accepted-to-be-presented-at-ieee-istas-2025-3-papers-and-3-grad-students-traveling-to-present-their-papres-congratulations",
+          section: "News",},{id: "news-emmanuel-domfeh-swapnika-dulam-and-fitsum-beyene-all-are-first-authors-on-papers-from-the-lab-that-were-accepted-to-be-presented-at-ieee-istas-2025-3-papers-and-3-grad-students-traveling-to-cali-to-present-their-papres-congratulations",
           title: 'Emmanuel Domfeh, Swapnika Dulam, and Fitsum Beyene all are first authors on papers...',
           description: "",
           section: "News",},{id: "projects-human-ai-for-disaster-response-and-recovery",
