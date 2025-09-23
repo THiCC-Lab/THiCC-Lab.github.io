@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/principles/";
           },
+        },{id: "nav-thicc-lab-principles",
+          title: "ThiCC Lab principles",
+          description: "The principles that guide what we do within THiCC Lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/principles/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -99,7 +106,35 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2024-01-Logics/";
-            },},{id: "projects-human-ai-for-disaster-response-and-recovery",
+            },},{id: "news-talking-with-folks-at-the-otherwise-symposium",
+          title: 'Talking with folks at the Otherwise Symposium',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-05-Toronto/";
+            },},{id: "news-talk-at-brown",
+          title: 'Talk at Brown',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-10-Brown/";
+            },},{id: "news-talking-with-black-beyond-data",
+          title: 'Talking with Black Beyond Data',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2024-11-BBD/";
+            },},{id: "news-keynote-talk-at-the-africana-digital-humanities-hbcus-convening",
+          title: 'Keynote talk at the Africana Digital Humanities @ HBCUs convening',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-04-ADH/";
+            },},{id: "news-talk-as-a-part-of-a-panel-at-who-owns-black-data-vol-2",
+          title: 'Talk as a part of a panel at Who Owns Black Data (Vol....',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-05-WOBD/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",},{id: "projects-human-ai-for-disaster-response-and-recovery",
           title: 'Human-AI for disaster response and recovery',
           description: "Human-AI for decision making during disaster response and recovery with the NSF AI Institute for Societal Decision Making",
           section: "Projects",handler: () => {
