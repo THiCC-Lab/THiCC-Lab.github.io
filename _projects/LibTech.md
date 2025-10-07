@@ -3,7 +3,7 @@ layout: page
 title: Liberatory Tech Project
 description: The Liberatory Tech Project with the Center for Black Digital Research/#DigBlk. Understanding the ways Blackness/antiBlackness, archives, and AI systems intersect and how we can build new digital systems towards a more liberatory future.
 img: assets/img/projects/Logo-light-outline.png
-redirect: https://unsplash.com
+redirect: https://liberatorytech.org/
 importance: 2
 category: current
 related_publications: true
