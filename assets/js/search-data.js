@@ -130,7 +130,7 @@ ninja.data = [{
           title: 'Talk as a part of a panel at Who Owns Black Data (Vol....',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/2025-05-WOBD/";
+              window.location.href = "/news/2025-05-1-WOBD/";
             },},{id: "news-thicc-lab-ai-sdm-annual-meeting",
           title: 'THiCC Lab @ AI-SDM Annual meeting',
           description: "",
@@ -146,7 +146,20 @@ ninja.data = [{
           section: "News",},{id: "news-emmanuel-domfeh-swapnika-dulam-and-fitsum-beyene-all-are-first-authors-on-papers-from-the-lab-that-were-accepted-to-be-presented-at-ieee-istas-2025-3-papers-and-3-grad-students-traveling-to-cali-to-present-their-papres-congratulations",
           title: 'Emmanuel Domfeh, Swapnika Dulam, and Fitsum Beyene all are first authors on papers...',
           description: "",
-          section: "News",},{id: "projects-human-ai-for-disaster-response-and-recovery",
+          section: "News",},{id: "news-dr-dancy-is-a-co-pi-with-jim-casey-sam-blickhan-ben-lee-and-tiffanie-smith-for-a-new-schmidt-havi-grant-centered-on-using-ai-computer-vision-supervised-semisupervised-and-unsupervised-systems-to-help-further-understand-the-early-black-press-dr-chris-dancy-and-fitsum-beyene-were-in-chicago-for-a-project-planning-meeting-for-the-ai-amp-amp-early-black-press-work-that-involved-lib-tech-other-cbdr-digblk-folks-and-folks-from-several-other-institutions-including-the-co-pis-from-above",
+          title: '💸✊🏽 Dr. Dancy is a Co-PI (with Jim Casey, Sam Blickhan, Ben Lee,...',
+          description: "",
+          section: "News",},{id: "news-dancy-and-workman-talk-at-swarthmore-for-just-tech-speaker-series",
+          title: 'Dancy and Workman talk at Swarthmore for Just Tech Speaker Series',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-11-Swarthmore/";
+            },},{id: "news-dancy-and-ray-talk-at-emory-for-dds-dept-lecture-series",
+          title: 'Dancy and Ray talk at Emory for DDS dept lecture series',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-12-Emory/";
+            },},{id: "projects-human-ai-for-disaster-response-and-recovery",
           title: 'Human-AI for disaster response and recovery',
           description: "Human-AI for decision making during disaster response and recovery with the NSF AI Institute for Societal Decision Making",
           section: "Projects",handler: () => {
