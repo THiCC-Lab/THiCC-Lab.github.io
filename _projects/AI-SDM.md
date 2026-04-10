@@ -15,6 +15,20 @@ Collaboration between humans and AI depends both on the reliablity of the AI too
 - What are valid, quantitative metrics of trust?
 - What cognitive and contextual factors shape trust?
 - How does trust change over time?
+
+  ## Disaster AI Decision Making Testbed
+  As an update to our previous work on Human-AI use patterns, we are interested in the overall AI adoption by an individual or an organization. This brings to the fore, the neeed to understand trust dynamics via the established interaction patterns. Superficially, we opine that, the interaction patterns essentially constitutes a varying domination of a human oversight and or AI opinion. As a human trait, there is also the need to understand the cognitive leanings and influences in such collaborative decisions. This will see us delve into the IBL considerations in this work. The overarching goal is to develop trustworthy AI systems for societal decision-making in disaster contexts by understanding how human-AI interaction patterns and AI transparency affect trust calibration and decision quality.
+We ask the following questions:
+
+1. Do different human-AI interaction patterns produce significantly different decision accuracy and AI reliance in building damage classification?
+2. How does each interaction condition shape trust calibration (TCI) and trust adaptation (TAS) across the three accuracy phases?
+3. Does the IBL cognitive model — including its XAI-enriched extension — accurately capture trust adaptation trajectories across both DISAID and VQA conditions?
+4. How does AI interpretability (Group 3 XAI visualization) modulate trust calibration relative to AI-answer-only (Group 2) and the no-AI baseline (Group 1)? <!-- More inclined to Meera's work -->
+
+
+
+
+
 <!-- Emmanuel can write more here. I summarized his slides -->
 
 ## Decision Making During Disasters
