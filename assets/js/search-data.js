@@ -159,8 +159,19 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-12-Emory/";
-            },},{id: "projects-human-ai-for-disaster-response-and-recovery",
-          title: 'Human-AI for disaster response and recovery',
+            },},{id: "news-dr-dancy-gave-a-talk-centered-on-the-human-ai-research-being-done-in-the-lab-and-visited-with-faculty-and-students-at-the-university-of-illinois-i-school",
+          title: '✊🏽📖 Dr. Dancy gave a talk centered on the Human-AI research being done...',
+          description: "",
+          section: "News",},{id: "news-dr-dancy-gave-an-invited-talk-to-kick-off-a-new-series-of-lectures-at-cornell-hosted-by-several-departments-across-the-university-big-shout-out-to-all-the-faculty-and-students-who-gave-their-time-and-contributed-to-a-packed-room-during-the-talk",
+          title: '✊🏽📖 Dr. Dancy gave an invited talk to kick off a new series...',
+          description: "",
+          section: "News",},{id: "news-thicc-lab-cbdr-papdc-organize-carceral-algorithms-symposium",
+          title: 'THiCC Lab, CBDR, PAPDC organize Carceral Algorithms Symposium',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-04-CarceralAlgosSymp/";
+            },},{id: "projects-human-ai-adoption",
+          title: 'Human-AI Adoption',
           description: "Human-AI for decision making during disaster response and recovery with the NSF AI Institute for Societal Decision Making",
           section: "Projects",handler: () => {
               window.location.href = "/projects/AI-SDM/";
