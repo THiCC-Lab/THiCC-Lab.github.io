@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Human-AI for disaster response and recovery
+title: Human-AI Adoption
 description: Human-AI for decision making during disaster response and recovery with the NSF AI Institute for Societal Decision Making
 img: assets/img/projects/Logo-light-outline.png
 importance: 3
