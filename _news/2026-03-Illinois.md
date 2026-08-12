@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dancy and Ray talk at Emory for DDS dept lecture series
+title: Dancy gives invited talk at the University of Illinois I-School
 date: 11-March-2026 08:00:00-0500
 inline: true
 related_posts: false
