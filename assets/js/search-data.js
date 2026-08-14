@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/principles/";
           },
-        },{id: "nav-thicc-lab-principles",
-          title: "ThiCC Lab principles",
-          description: "The principles that guide what we do within THiCC Lab",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/principles/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
