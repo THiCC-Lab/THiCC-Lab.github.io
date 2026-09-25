@@ -2,7 +2,7 @@
 layout: page
 title: Socioculturally Competent AI
 description: Developing an improved understanding of human-AI interactions towards socioculturally competent AI systems
-img: assets/img/projects/Logo-light-outline.png
+img: assets/img/dark-lab-logo.png
 importance: 1
 category: current
 related_publications: true

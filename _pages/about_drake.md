@@ -1,0 +1,1 @@
+Drake Thompson is a PhD student in Computer Science and Engineering currently working in THiCC Lab and with the Human-AI for disasters project pathway as a part of the <a href="https://digblk.psu.edu/">Center for Black Digtial Research/#DigBlk</a>

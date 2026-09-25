@@ -1,1 +1,1 @@
-Fitsum Beyene is a PhD student in Computer Science and Engineering currently working in THiCC Lab and with the Liberatory Tech Project as a part of the <a href="https://digblk.psu.edu/">Center for Black Digtial Research/#DigBlk</a>
+Fitsum Beyene is a PhD candidate in Computer Science and Engineering currently working in THiCC Lab and with the Liberatory Tech Project pathway as a part of the <a href="https://digblk.psu.edu/">Center for Black Digtial Research/#DigBlk</a>

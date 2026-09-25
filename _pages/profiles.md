@@ -42,7 +42,7 @@ profiles:
     more_info:
   - align: left
     role: grad
-    image: profile_pics/edomfeh.jpg
+    image: profile_pics/edomfeh.jpeg
     content: about_edomfeh.md
     image_circular: false # crops the image to make it circular
     more_info:
@@ -54,8 +54,20 @@ profiles:
     more_info:
   - align: left
     role: grad
-    image: profile_pics/jgay.jpg
-    content: about_jgay.md
+    image: dark-lab-logo.png
+    content: about_drake.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: left
+    role: grad
+    image: dark-lab-logo.png
+    content: about_trice.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+  - align: left
+    role: grad
+    image: dark-lab-logo.png
+    content: about_sam.md
     image_circular: false # crops the image to make it circular
     more_info:
 ---
