@@ -1,0 +1,1 @@
+Patrice Sterling is a PhD candidate in informatics currently working in THiCC Lab and with the Liberatory Tech Project pathway as a part of the <a href="https://digblk.psu.edu/">Center for Black Digtial Research/#DigBlk</a>
