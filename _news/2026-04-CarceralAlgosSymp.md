@@ -10,5 +10,6 @@ related_posts: false
 <br />
 
 <a href="https://sites.psu.edu/carceralalgos2026/">
-See the symposium website here for more information!<br />
-<img src="{{ site.baseurl }}/assets/img/carceral-algos26.png" alt="Flyer for Carceral Algorithms Symposium at Penn State (April 2026)" height=" /></a>
+    See the symposium website here for more information!<br />
+    <img src="{{ site.baseurl }}/assets/img/carceral-algos26.png" alt="Flyer for Carceral Algorithms Symposium at Penn State (April 2026)" height="" />
+</a>
